@@ -5,7 +5,7 @@
 ###### Flask
 
 # GETTING STARTED
-###### Step 1 (Clone this repository): git clone https://github.com/guilhermeckc/appnumbername.git
+###### Step 1 (Clone this repository): git clone https://github.com/guilhermeckc/numname.git
 ###### Step 2 (Create a virtual environment): python3 -m venv myenvapp
 ###### Step 3 (Activate your environment): source myenvapp/bin/activate
 ###### Step 4 (Install dependencies): pip install -r requirements.txt
